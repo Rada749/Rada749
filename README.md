@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Emmanuel Martinez]
+# ¡Hola! 👋 Soy Emmanuel Martinez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un Desarrollador Full Stack apasionado por la creación de aplicaciones web dinámicas y eficientes. Aquí podrás encontrar proyectos en los que he trabajado y tecnologías que me apasionan.
 
