@@ -35,6 +35,6 @@ Estoy abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una
 ## 📫 Cómo contactarme
 
 - **Email**: [radames5897@gmail.com](mailto:radames5897@gmail.com)
-- **LinkedIn**: https://www.linkedin.com/in/emmanuelmartinezsalazar/)
+- **LinkedIn**: https://www.linkedin.com/in/emmanuelmartinezsalazar/
   
 ¡Gracias por visitar mi perfil!
