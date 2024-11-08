@@ -6,13 +6,28 @@
 
 A continuación, te presento algunas de las tecnologías y herramientas con las que trabajo:
 
-- **React**: Desarrollo de interfaces de usuario interactivas y reutilizables.
-- **Node.js**: Backend rápido y escalable para aplicaciones web.
-- **HTML5**: Estructuración semántica y accesible del contenido web.
-- **CSS3**: Diseño y estilos avanzados para aplicaciones web.
-- **Bootstrap**: Framework de CSS para desarrollar rápidamente aplicaciones responsive.
-- **Tailwind CSS**: Utilidad de clases CSS para crear interfaces modernas y personalizables.
-- **JavaScript**: Lenguaje de programación para dar vida e interactividad a las páginas web.
+### **Frontend**
+- **React**: Desarrollo de interfaces de usuario interactivas y reutilizables, manejando el estado de las aplicaciones y creando componentes modulares y eficientes.
+- **Vite**: Herramienta de desarrollo rápida para proyectos de frontend, que permite una configuración mínima y un entorno de desarrollo ágil y eficiente.
+- **HTML5**: Estructuración semántica y accesible del contenido web, siguiendo las mejores prácticas para SEO y accesibilidad.
+- **CSS3**: Estilización avanzada con técnicas modernas como flexbox y grid para crear diseños adaptativos.
+- **Bootstrap**: Framework de CSS que acelera el desarrollo de aplicaciones responsive con componentes listos para usar.
+- **Tailwind CSS**: Sistema de utilidad de clases CSS que permite crear interfaces modernas y personalizables con mayor flexibilidad y control sobre el diseño.
+
+### **Backend**
+- **Node.js**: Plataforma para construir aplicaciones backend rápidas y escalables, con un enfoque en la eficiencia y el manejo de solicitudes concurrentes.
+- **Express.js**: Framework para Node.js que facilita la creación de API RESTful y la gestión de rutas y middleware en aplicaciones web.
+
+### **Bases de Datos**
+- **MongoDB**: Base de datos NoSQL orientada a documentos, ideal para manejar datos no estructurados o esquemas flexibles.
+- **MySQL**: Sistema de gestión de bases de datos relacional que permite manejar grandes volúmenes de datos estructurados.
+
+### **Lenguajes de Programación**
+- **JavaScript**: Lenguaje de programación esencial para el desarrollo web, utilizado tanto en frontend como en backend, conocido por su versatilidad y velocidad.
+- **TypeScript**: Superset de JavaScript que añade tipos estáticos, permitiendo un código más seguro y fácil de mantener en proyectos grandes.
+
+### **Testing y Control de Calidad**
+- **Jest**: Framework de testing para JavaScript, ideal para realizar pruebas unitarias y de integración, asegurando la calidad del código en aplicaciones frontend y backend.
 
 ## 💼 Proyectos Destacados
 
